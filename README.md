@@ -1,4 +1,6 @@
+```
 /*hide storys following/sidebar page*/
+
 .lcFJxY {
     display: none !important;
 }
@@ -46,3 +48,4 @@
 .jlCrCH {
     background-color: transparent !important;
 }
+```
