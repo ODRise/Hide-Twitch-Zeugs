@@ -1,51 +1,47 @@
-```
-/*hide storys following/sidebar page*/
+```css
+/* Hide unnecessary elements */
 
-.lcFJxY {
-    display: none !important;
-}
-
-.storiesLeftNavSection--csO9S {
-    display: none !important;
-}
-
+/* Hide storys following/sidebar page */
+.lcFJxY,
+.storiesLeftNavSection--csO9S,
 .hdoiLi {
     display: none !important;
 }
 
-/*FOLLOWING text on following page*/
+/* Hide FOLLOWING text on following page */
 .kcPfws {
     display: none;
 }
 
-/*banner sub event*/
+/* Hide banner sub event */
 .fSpCrC {
     display: none !important;
 }
 
-/*hide follow/unfollow buttons*/
+/* Hide follow/unfollow buttons */
 .grllUE {
     display: none !important;
 }
 
-/*hide share/report buttons*/
+/* Hide share/report buttons */
 .cKIKxU {
     display: none !important;
 }
 
-/*move uptime etc to the left and down*/
+/* Adjust positioning */
+
+/* Move uptime etc to the left and down */
 .gLgEjK {
     margin-top: 1rem;
     margin-right: 2.2rem;
 }
 
-/*hides sub and follower goal below stream*/
+/* Hide sub and follower goal below stream */
 .ldUFHV {
     display: none !important;
 }
 
-/*background color infobox*/
+/* Background color infobox */
 .jlCrCH {
     background-color: transparent !important;
 }
-```
