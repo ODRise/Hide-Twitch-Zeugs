@@ -1,3 +1,5 @@
+Remove unnecessary clutter from Twitch
+
 ```css
 /*hide storys following/sidebar page*/
 .lcFJxY {
