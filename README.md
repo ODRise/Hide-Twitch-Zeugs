@@ -1,47 +1,58 @@
 ```css
-/* Hide unnecessary elements */
+/*hide storys following/sidebar page*/
+.lcFJxY {
+    display: none !important;
+}
 
-/* Hide storys following/sidebar page */
-.lcFJxY,
-.storiesLeftNavSection--csO9S,
+.storiesLeftNavSection--csO9S {
+    display: none !important;
+}
+
 .hdoiLi {
     display: none !important;
 }
 
-/* Hide FOLLOWING text on following page */
+/*FOLLOWING text on following page*/
 .kcPfws {
     display: none;
 }
 
-/* Hide banner sub event */
+/*banner sub&tc event*/
 .fSpCrC {
     display: none !important;
 }
+.ibyWQL {
+    display: none;
+}
 
-/* Hide follow/unfollow buttons */
+/*hide follow/unfollow buttons*/
 .grllUE {
     display: none !important;
 }
 
-/* Hide share/report buttons */
+/*hide share/report buttons*/
 .cKIKxU {
     display: none !important;
 }
 
-/* Adjust positioning */
-
-/* Move uptime etc to the left and down */
+/*move uptime etc to the left and down*/
 .gLgEjK {
     margin-top: 1rem;
     margin-right: 2.2rem;
 }
 
-/* Hide sub and follower goal below stream */
+/*hides sub and follower goal below stream*/
 .ldUFHV {
     display: none !important;
 }
 
-/* Background color infobox */
+/*background color infobox*/
 .jlCrCH {
     background-color: transparent !important;
 }
+
+/*hide games IRL Music Creative buttons in directory*/
+.vertical-selector-card__container--lg {
+    display: none;
+}
+
