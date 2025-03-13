@@ -23,24 +23,24 @@ Remove unnecessary clutter from Twitch
 .fSpCrC {
     display: none !important;
 }
-.ibyWQL {
-    display: none;
-}
+
 
 /*hide follow/unfollow buttons*/
 .grllUE {
     display: none !important;
 }
 
-/*hide share/report buttons*/
+/*hide share/report buttons adjustments*/
 .cKIKxU {
     display: none !important;
 }
 
-/*move uptime etc to the left and down*/
-.gLgEjK {
-    margin-top: 1rem;
-    margin-right: 2.2rem;
+.gLgEjK  {
+    display: contents !important;
+}
+
+.llUbgd {
+    margin-left: 0 !important;
 }
 
 /*hides sub and follower goal below stream*/
@@ -55,6 +55,11 @@ Remove unnecessary clutter from Twitch
 
 /*hide games IRL Music Creative buttons in directory*/
 .vertical-selector-card__container--lg {
+    display: none;
+}
+
+/*Hide Bits button*/
+.kBEymU {
     display: none;
 }
 
