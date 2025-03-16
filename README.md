@@ -58,12 +58,8 @@ Remove unnecessary clutter from Twitch
     display: none;
 }
 
-/*Hide Bits, whisper and inbox button*/
+/*Hide Bits button*/
 .kBEymU {
-    display: none !important;
-}
-
-.eSFFfM {
     display: none !important;
 }
 
