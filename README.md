@@ -30,19 +30,6 @@ Remove unnecessary clutter from Twitch
     display: none !important;
 }
 
-/*hide share/report buttons adjustments*/
-.cKIKxU {
-    display: none !important;
-}
-
-.gLgEjK  {
-    display: contents !important;
-}
-
-.llUbgd {
-    margin-left: 0 !important;
-}
-
 /*hides sub and follower goal below stream*/
 .ldUFHV {
     display: none !important;
