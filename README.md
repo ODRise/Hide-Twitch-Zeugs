@@ -30,6 +30,7 @@ Remove unnecessary clutter from Twitch
     display: none !important;
 }
 
+
 /*hides sub and follower goal below stream*/
 .ldUFHV {
     display: none !important;
@@ -50,3 +51,7 @@ Remove unnecessary clutter from Twitch
     display: none !important;
 }
 
+/*Hide cheer button*/
+.caxXaW {
+    display: none !important;
+}
