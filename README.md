@@ -14,6 +14,11 @@ Remove unnecessary clutter from Twitch
     display: none !important;
 }
 
+/*Hide border profile picture story*/
+.halo--FRPlG {
+    background: transparent !important;
+}
+
 /*FOLLOWING text on following page*/
 .kcPfws {
     display: none;
@@ -47,11 +52,11 @@ Remove unnecessary clutter from Twitch
 }
 
 /*Hide Bits button*/
-.kBEymU {
+.kBEymU.Layout-sc-1xcs6mc-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0 {
     display: none !important;
 }
 
 /*Hide cheer button*/
-.caxXaW {
+.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.kIbAir.ScCoreButton-sc-ocjdkq-0 {
     display: none !important;
 }
