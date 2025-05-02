@@ -14,7 +14,12 @@ Remove unnecessary clutter from Twitch
     display: none !important;
 }
 
-/*Hide border profile picture story*/
+/*Hide search icon*/
+.tw-combo-input__button-icon--large {
+    display: none !important;
+}
+
+/*Hide boarder profile picture story*/
 .halo--FRPlG {
     background: transparent !important;
 }
@@ -59,4 +64,14 @@ Remove unnecessary clutter from Twitch
 /*Hide cheer button*/
 .gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.kIbAir.ScCoreButton-sc-ocjdkq-0 {
     display: none !important;
+}
+
+/*Hide Chat top banner*/
+.stream-chat-header.fiHaCw.Layout-sc-1xcs6mc-0 {
+    display: none !important;
+}
+
+/*Hide Chat collapse button*/
+.toggle-visibility__right-column--expanded {
+        display: none !important;
 }
